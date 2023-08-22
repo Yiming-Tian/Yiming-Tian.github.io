@@ -3,16 +3,16 @@ url: "hehua-fan.github.io "
 # Basic Information 
 title: Hehua Fan
 # subtitle:
-position: Ph.D. Candidate
+position: MS. Candidate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 subposition_link: https://nyu-medicine-cssa.github.io
 affiliation: University of Pittsburgh
-subaffiliation: Grossman School of Medicine  
+subaffiliation: School of Computing ang Information  
 affiliation_link: https://www.pitt.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
+subaffiliation_link: https://www.sci.pitt.edu/
+email: HEF40@pitt.edu
 address: 135 North Bellefield Avenue, Pittsburgh, PA 15260
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+address_link: https://www.google.com/maps/place/School+of+Computing+and+Information/@40.4434887,-79.9577298,17z/data=!4m6!3m5!1s0x8834f22581561631:0x5d805f0d37e26625!8m2!3d40.4474057!4d-79.9526565!16s%2Fm%2F02rr42n?entry=ttu
 
 
 
@@ -32,7 +32,7 @@ twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
+avatar: ./assets/img/avatar.jpeg
 # logo: ./assets/img/logo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
