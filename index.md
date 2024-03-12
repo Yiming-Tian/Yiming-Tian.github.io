@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a graduate student currently enrolled in the Master of <a href="https://www.dins.pitt.edu/academics/master-science-information-science" target="_blank"> Information Science</a> program at <a href="https://www.sci.pitt.edu/" target="_blank"> School of Computing and Information</a> in <a href="https://www.pitt.edu/" target="_blank"> University of Pittsburgh</a> My primary focus and interest lie in the dynamic field of data. Proficient in data analysis and interpretation, I am eager to apply my skills in practical scenarios. I am actively seeking opportunities to contribute to real-world projects, leveraging my expertise to address complex challenges within the information science domain.
+I am a graduate student currently enrolled in the Master of <a href="https://www.dins.pitt.edu/academics/master-science-information-science" target="_blank"> Information Science</a> program at <a href="https://www.sci.pitt.edu/" target="_blank"> School of Computing and Information</a> in <a href="https://www.pitt.edu/" target="_blank"> University of Pittsburgh</a>. My primary focus and interest lie in the dynamic field of data. Proficient in data analysis and interpretation, I am eager to apply my skills in practical scenarios. I am actively seeking opportunities to contribute to real-world projects, leveraging my expertise to address complex challenges within the information science domain.
 
 
 ## Research Interests
