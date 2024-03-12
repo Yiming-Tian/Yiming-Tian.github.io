@@ -21,11 +21,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
 cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hehua-Fan
-linkedin: https://www.linkedin.com/in/hehua-fan/
-twitter: https://twitter.com/tedddddy_zhang
+github_link: https://github.com/Yiming-Tian
+linkedin: www.linkedin.com/in/yiming-tian
+
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
